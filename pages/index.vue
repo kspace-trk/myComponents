@@ -2,7 +2,6 @@
   <div>
     <div class="container">
       <myHeader1 />
-      <myHeader2 />
     </div>
   </div>
 </template>

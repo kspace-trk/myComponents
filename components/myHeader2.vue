@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="header-2">
+    <div class="header-right-h">
       <input id="toggle" type="checkbox" />
       <label class="hamburger" for="toggle">
         <div class="top"></div>
@@ -22,10 +22,6 @@
   </div>
 </template>
 <style scoped>
-.header-2 {
-  margin-top: 50px;
-  position: relative; /*上にスペースを作るためなので使うときはこれを消す*/
-}
 .hamburger {
   position: absolute;
   width: 50px;
